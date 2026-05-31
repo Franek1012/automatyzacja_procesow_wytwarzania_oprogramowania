@@ -15,4 +15,4 @@ jobs:
             username: student
             Password: Student1234#*
             protocol: ftp
-            server-dir: /var/www/html/hubertfrankowski
+            server-dir: /var/www/html/hubertfrankowski/
